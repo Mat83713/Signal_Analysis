@@ -6,7 +6,7 @@ Project created by Maciej Matusiak. This application was designed and created as
 - Type of function used to create the signal,
 <br >
 
-
+![MainWindow](https://user-images.githubusercontent.com/98715325/220991287-0b4788aa-e76c-430f-b320-75ddf4d9dfdf.png)
 
 <br >
 
@@ -17,11 +17,11 @@ s = (v*t)/2 , where:
 -	s -> the distance we want to determine,
 <br >
 
-
+![SinWindow](https://user-images.githubusercontent.com/98715325/221000315-fab29e3a-4d01-41fd-82d9-7329f361a05f.png)
 
 <br >
 
-
+![ChirpWindow](https://user-images.githubusercontent.com/98715325/221000322-ed9b08e9-bbf9-424a-8ad1-78205c9ab4eb.png)
 
 <br >
 
